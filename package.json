@@ -1,0 +1,25 @@
+{
+  "name": "directory-watchdog",
+  "version": "1.0.0",
+  "description": "a simple program that runs and sends an email when there is change in the watch directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/light-bringer/folder-watchdog.git"
+  },
+  "keywords": [
+    "watchdog"
+  ],
+  "author": "Debapriya Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/light-bringer/folder-watchdog/issues"
+  },
+  "homepage": "https://github.com/light-bringer/folder-watchdog#readme",
+  "dependencies": {
+    "chokidar": "^2.1.5"
+  }
+}
